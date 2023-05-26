@@ -1,4 +1,4 @@
-<h1 align="canter" ![Logo](https://github.com/satlearn/satlearn/blob/main/header.png)></h1>
+<h1 align="center" ![Logo](https://github.com/satlearn/satlearn/blob/main/header.png)></h1>
 <h1 align="center">Hi 👋, I'm Sathya Dhanabal</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
