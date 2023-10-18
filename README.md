@@ -7,7 +7,7 @@
 <p align="left">
 </p>
 
-<h3 align="left" target="_blank">My Portfolio: https://www.sathyadev.co.uk</h3>
+<h3 align="left" target="_blank">My Portfolio: https://https://satlearn.github.io/satportfolio/</h3>
 
 📫 How to reach me **satb2008@gmail.com**
 
